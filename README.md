@@ -16,9 +16,9 @@
 
 - ⚡ Hobbies **Learning new technologies and doing exercise (Gym).**
 
-## 🚀 Languages and Tools:
+## 🚀 Practical experience with :
 
-<p align="center"> 
+<p> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -32,15 +32,4 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://about.gitlab.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> </a> 
 </p>
-<br/>
-
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/AleMiranda58/github-readme-stats"><img alt="Alejandra Miranda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AleMiranda58&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AleMiranda58/github-readme-stats"><img alt="Alejandra Miranda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleMiranda58&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
 <br/>
