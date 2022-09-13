@@ -6,18 +6,22 @@ Take a look at **[My Portfolio Web](https://portfolio-alejandramiranda.netlify.a
 </div>
 
 My hands-on experience includes:
-⚡ JavaScript ES6+
-⚡ TypeScript
-⚡ ReactJS
-⚡ React Testing Library
-⚡ Redux
-⚡ Node.js
-⚡ Mysql
-⚡ Firebase
-⚡ WordPress
-⚡ HTML5, CSS3, SASS
-⚡ Among other technologies.
+<ul>
+<li>⚡ JavaScript ES6+</li>
+<li>⚡ TypeScript</li>
+<li>⚡ ReactJS</li>
+<li>⚡ React Testing Library</li>
+<li>⚡ Redux</li>
+<li>⚡ Node.js</li>
+<li>⚡ Mysql</li>
+<li>⚡ Firebase</li>
+<li>⚡ WordPress</li>
+<li>⚡ HTML5, CSS3, SASS</li>
+<li>⚡ Among other technologies.</li>
+</ul>
 
 How to reach me:
-<a><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/> ale.miranda890@gmail.com</a>
-<a><img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"/> www.linkedin.com/in/alejandra-mirandareyes/</a>
+<ul>
+<li>gmail: ale.miranda890@gmail.com</a>
+<li>Linkedin: www.linkedin.com/in/alejandra-mirandareyes/</a>
+</ul>
