@@ -2,7 +2,7 @@
 <h1> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alejandra</h1>
 <h3> Web Developer & UX/UI Designer.</h3>
 <p>I'm passionate about creating excellent user experiences through adaptive and reactive web applications and websites.</p>
-Take a look at **[My Portfolio Web](https://portfolio-alejandramiranda.netlify.app/)**
+<p>Take a look at **[My Portfolio](https://portfolio-alejandramiranda.netlify.app/)**</p>
 </div>
 
 ##
