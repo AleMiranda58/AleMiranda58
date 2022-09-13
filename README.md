@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alejandra</h1>
-<h3> Web Developer</h3>
+<h3> I am a Web Developer</h3>
 I'm passionate about creating excellent user experiences through adaptive and reactive web applications and websites.
 </br>Take a look at My Portfolio web: https://portfolio-alejandramiranda.netlify.app/
 </div>
