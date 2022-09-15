@@ -13,9 +13,6 @@ My hands-on experience includes:
 <li>ReactJS</li>
 <li>React Testing Library</li>
 <li>Redux</li>
-<li>Node.js</li>
-<li>Mysql</li>
-<li>Firebase</li>
 <li>WordPress</li>
 <li>HTML5, CSS3, SASS</li>
 <li>Among other technologies.</li>
