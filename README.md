@@ -8,13 +8,21 @@ I'm passionate about creating excellent user experiences through adaptive and re
 ##
 My hands-on experience includes:
 <ul>
+<li>HTML5</li>
+<li>CSS</li>
+<li>SASS</li>
 <li>JavaScript ES6+</li>
 <li>TypeScript</li>
 <li>ReactJS</li>
-<li>React Testing Library</li>
+<li>Typescript</li>
 <li>Redux</li>
+<li>React Testing Library</li>
+<li>Firebase</li>
+<li>MySQL</li>
+<li>PHP</li>
 <li>WordPress</li>
-<li>HTML5, CSS3, SASS</li>
+<li>Bootstrap</li>
+<li>Material-UI</li>
 <li>Among other technologies.</li>
 </ul>
 
