@@ -10,15 +10,16 @@ My hands-on experience includes:
 <ul>
 <li>HTML5</li>
 <li>CSS</li>
-<li>SASS</li>
 <li>JavaScript ES6+</li>
 <li>TypeScript</li>
 <li>ReactJS</li>
 <li>Typescript</li>
 <li>Redux</li>
+<li>Jest</li>
 <li>React Testing Library</li>
-<li>Firebase</li>
+<li>SQL</li>
 <li>MySQL</li>
+<li>Firebase</li>
 <li>PHP</li>
 <li>WordPress</li>
 <li>Bootstrap</li>
