@@ -6,5 +6,5 @@
 How to reach me:
 <ul>
 <li>gmail: ale.miranda890@gmail.com</li>
-<li>Linkedin: <a href='https://www.linkedin.com/in/alejandra-mirandareyes/'>alejandra-mirandareyes</a></li>
+<li>Linkedin: <a href='https://www.linkedin.com/in/alejandra-mirandareyes/' target='_blank'>alejandra-mirandareyes</a></li>
 </ul>
